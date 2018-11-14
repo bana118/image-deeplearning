@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: 70675d9fb25b79744bf9ad60d5622e9c
+guid: 71cb3dfccddee1343b23d93e7a8b0040
+timeCreated: 1542195104
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: EndFeelerA2
     100002: EndFeelerB3
@@ -157,7 +159,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -189,8 +190,6 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.0254
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
